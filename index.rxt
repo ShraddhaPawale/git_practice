@@ -1,3 +1,9 @@
 Hello
 shraddha.................
 its Sunday........
+<<<<<<< Updated upstream
+adding new line after storing second stash
+=======
+Adding new line after storing first stash
+se
+>>>>>>> Stashed changes
