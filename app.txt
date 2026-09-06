@@ -4,4 +4,3 @@ Hello APP.
 4.adding new line for next commit
 5.its sunday
 6.its weekend
-7.its 11:05AM
